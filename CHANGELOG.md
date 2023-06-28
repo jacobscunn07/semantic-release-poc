@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+### [2.1.3](https://github.com/jacobscunn07/semantic-release-poc/compare/v2.1.2...v2.1.3) (2023-06-28)
+
+
+### Bug Fixes
+
+* Testing - not a semver formatted commit ([#6](https://github.com/jacobscunn07/semantic-release-poc/issues/6)) ([7283276](https://github.com/jacobscunn07/semantic-release-poc/commit/7283276676fa354af89018e7e20deee9c4384ae6))
+
 ### [2.1.2](https://github.com/jacobscunn07/semantic-release-poc/compare/v2.1.1...v2.1.2) (2023-06-28)
 
 
