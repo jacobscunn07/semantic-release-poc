@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.1.0](https://github.com/jacobscunn07/semantic-release-poc/compare/v2.0.0...v2.1.0) (2023-06-28)
+
+
+### Features
+
+* add another exclamation mark ([c726896](https://github.com/jacobscunn07/semantic-release-poc/commit/c726896469fbe585b5f1a995d897d328ec84a172))
+
 ## [2.0.0](https://github.com/jacobscunn07/semantic-release-poc/compare/v1.1.1...v2.0.0) (2023-06-28)
 
 
