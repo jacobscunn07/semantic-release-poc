@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.0.0](https://github.com/jacobscunn07/semantic-release-poc/compare/v1.1.1...v2.0.0) (2023-06-28)
+
+
+### ⚠ BREAKING CHANGES
+
+* The exclamation mark could make UI tests begin failing
+
+### Features
+
+* exclamation mark ([e58e891](https://github.com/jacobscunn07/semantic-release-poc/commit/e58e8917540ef38a23eebecfd44fdefd9a04d967))
+
 ### [1.1.1](https://github.com/jacobscunn07/semantic-release-poc/compare/v1.1.0...v1.1.1) (2023-06-28)
 
 
