@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+### [1.1.1](https://github.com/jacobscunn07/semantic-release-poc/compare/v1.1.0...v1.1.1) (2023-06-28)
+
+
+### Bug Fixes
+
+* add new line at bottom of readme ([c319802](https://github.com/jacobscunn07/semantic-release-poc/commit/c3198023dc7e7100565f18558872cab9042f2bca))
+
 ## [1.1.0](https://github.com/jacobscunn07/semantic-release-poc/compare/v1.0.0...v1.1.0) (2023-06-28)
 
 
