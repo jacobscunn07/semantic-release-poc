@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+### [2.1.1](https://github.com/jacobscunn07/semantic-release-poc/compare/v2.1.0...v2.1.1) (2023-06-28)
+
+
+### Bug Fixes
+
+* yolo ([1073bd2](https://github.com/jacobscunn07/semantic-release-poc/commit/1073bd2b8eba04521ef8c8a784c73761d552c5ce))
+
 ## [2.1.0](https://github.com/jacobscunn07/semantic-release-poc/compare/v2.0.0...v2.1.0) (2023-06-28)
 
 
