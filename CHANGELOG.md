@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
+## [3.0.0](https://github.com/jacobscunn07/semantic-release-poc/compare/v2.1.3...v3.0.0) (2023-06-29)
+
+
+### ⚠ BREAKING CHANGES
+
+* Will this update major or minor? (#7)
+* will this update major or minor?
+
+### Features
+
+* will this update major or minor? ([6799045](https://github.com/jacobscunn07/semantic-release-poc/commit/679904500c50d2f233641855cc6c3e702306feec))
+* Will this update major or minor? ([#7](https://github.com/jacobscunn07/semantic-release-poc/issues/7)) ([7f4d748](https://github.com/jacobscunn07/semantic-release-poc/commit/7f4d74875b027c2043a62dae9d9a8f28df266d94))
+
 ### [2.1.3](https://github.com/jacobscunn07/semantic-release-poc/compare/v2.1.2...v2.1.3) (2023-06-28)
 
 
